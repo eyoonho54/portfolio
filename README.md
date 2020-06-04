@@ -4,7 +4,7 @@ Contents
 ------
 * [First web 1 - HTML](https://github.com/eyoonho54/first-web1)
   * Learn how to use TAG to code HTML
-* Pre-Class - Git
+* [Pre-Class - Git](https://github.com/eyoonho54/portfolio)
   * Make a new repository and commit changes
 
 Contact 
