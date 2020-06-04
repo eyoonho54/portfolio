@@ -13,4 +13,4 @@ Contact
 
 Phone 010-4207-xxxx
    
-email eyoonho@naver.com
+email eyoo***@naver.com
